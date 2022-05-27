@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.border {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-header {
+    font-size: 64px;
+    color: #1F3F68;
+    width: 510px;
+}
+
+.main-text {
+    width: 425px;
+}
+
+.contacts-header {
+    font-weight: 500;
+    font-size: 44px;
+    background-color: forestgreen;
+}
+
+.medium-header {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+.small-header {
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+
+.main-input {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.main-button {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.block-title {
+    border: 2px solid red;
+}
+
+.block-title-main {
+    border: 2px solid fuchsia;
+    width: 80%;
+    height: 500px;
+}
+
+.block-title-main-menu {
+    border: 2px solid green
+}
+
+.top__info {
+    border: 2px solid blue;
+    height: 50%;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1140px;
+}
+
+.what-we-do {
+    border: 2px solid blue;
+}
+
+
+.block-info-main {
+    border: 2px solid green;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    border: 2px solid fuchsia;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 359px;
+}
+
+.block-finish {
+    border: 2px solid red;
+}
+
+.footer {
+    background-color: cadetblue;
+}
+
+.footerheader {
+    width: 340px;
+}
+
+.block-team-text {
+    border: 2px solid gray;
+}
+
+.block-team-text-info {
+    border: 2px solid rosybrown;
+    width: 495px;
+}
+
+.footer__bottom {
+    border: 2px solid greenyellow;
+}
+
+.block-contact-rights {
+    border: 2px solid gray;
+}
+
+.main {
+    display: flex;
+}
+
+.maps {
+    width: 100%;
+    display: block;
+}

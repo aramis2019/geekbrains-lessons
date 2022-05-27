@@ -1,0 +1,137 @@
+body {
+    font-family: sans-serif;
+}
+
+.border {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.main-header {
+    font-size: 64px;
+    color: #1F3F68;
+}
+
+.contact-header {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+.medium-header {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+.small-header {
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+
+.main-input {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.main-button {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.block-title {
+    border: 2px solid red;
+    height: 700px;
+}
+
+.block-title-main {
+    border: 2px solid fuchsia;
+    width: 80%;
+    height: 500px;
+}
+
+.block-title-main-menu {
+    border: 2px solid green
+}
+
+.block-title-main-text {
+    border: 2px solid blue;
+    height: 50%;
+}
+
+.block-info {
+    border: 2px solid blue;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.block-info-main {
+    border: 2px solid green;
+}
+
+.block-info-main-text {
+    border: 2px solid fuchsia;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.block-finish {
+    border: 2px solid red;
+}
+
+.block-team {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid red;
+}
+
+.block-team-text {
+    border: 2px solid gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.block-team-text-info {
+    border: 2px solid rosybrown;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.block-contact {
+    border: 2px solid greenyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.block-contact-rights {
+    border: 2px solid gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
