@@ -30,3 +30,26 @@
   margin: 0 auto;
   width: 1200px;
 }
+
+.button {
+  margin: 200px auto 0;
+  background-color: darkviolet;
+  color: #ffffff;
+  width: 140px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 20px 0 0 20px;
+  border: 1px solid transparent;
+}
+
+.button:hover {
+  background-color: #ffffff;
+  color: darkviolet;
+  border: 1px solid darkviolet;
+}
+
+.form {
+  margin: 200px auto 0;
+  display: block;
+}
